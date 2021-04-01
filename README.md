@@ -14,7 +14,7 @@ EN
 
 Javascript Practice
 
-## Revie
+## Review
 
 - Arrow functions
 - DOM
